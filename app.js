@@ -39,7 +39,7 @@ const html = `
         font-size: calc(62rem / 16);
       }
       body {
-        background: white;
+        background: pink;
       }
       section {
         border-radius: 1em;
